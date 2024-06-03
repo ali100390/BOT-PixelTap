@@ -1,3 +1,1 @@
-Initdata|Secret|Tg-Id|Username
-Initdata|Secret|Tg-Id|Username
-Initdata|Secret|Tg-Id|Username
+query_id=AAGGJRUVAWAAAIYIFRUI7bZX&user=%7B%22id%22%3A6796158342%2C%22first_name%22%3A%22Maslahah%22%2C%22lastname%22%3A%22%22%2C%22username%22%3A%22masal021%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_tO_pm%22%3Atrue?%7D&auth_date=1717400706&hash=ebe0aabba938c7bf4c748621fddc6ca596fc5574dc566215de609ecOb549d9c3|ae823842a51321cdb9c80d0a9ebdd78afccObc3e566d4336c8a194052f2e3433|6796158342|masal021
